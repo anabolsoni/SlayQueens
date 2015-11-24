@@ -16,11 +16,11 @@ class Skills{
   // enum (map of skills with level)
 };
 class Character{
-	private:
-  	static int strength;
-    string name; 
-    Weapon* weapon;
-    int hp;
-  	int level;
-  	
+private:
+  static int strength;
+  string name; 
+  Weapon* weapon;
+  int hp;
+  int level;
+};
   
